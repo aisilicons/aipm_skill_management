@@ -362,4 +362,4 @@ Le bot suggère la commande la plus proche en fonction de ce que vous avez tapé
 
 ---
 
-Licence MIT
+CC BY-NC 4.0 License — Creative Commons Attribution-NonCommercial 4.0
