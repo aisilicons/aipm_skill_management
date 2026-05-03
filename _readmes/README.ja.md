@@ -362,4 +362,4 @@ Telegram コマンド: `/start` `/help` `/reset`
 
 ---
 
-MIT ライセンス
+CC BY-NC 4.0 License — Creative Commons Attribution-NonCommercial 4.0
