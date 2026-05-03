@@ -362,4 +362,4 @@ Bot 会根据你的输入和近期操作，推荐最接近的匹配指令。
 
 ---
 
-MIT 许可证
+CC BY-NC 4.0 License — Creative Commons Attribution-NonCommercial 4.0
