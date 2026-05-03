@@ -362,4 +362,4 @@ Bot gợi ý lệnh phù hợp nhất dựa trên nội dung bạn gõ và công
 
 ---
 
-MIT License
+CC BY-NC 4.0 License — Creative Commons Attribution-NonCommercial 4.0
